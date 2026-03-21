@@ -1,6 +1,7 @@
-Explainable AI (XAI) • Model interpretability • Feature attribution • Model diagnostics • SHAP / LIME • Trust in AI • Black-box analysis • Responsible AI • Visual analytics for ML
+Inference Optimization • Reinforcement Learning (RL) • Multi-Agent Systems (MARL) • Neural Approximation • Algorithmic Substitution • Custom RL Environments • Autonomous Compute • High-Performance AI
 
-## Dedication
-
-I would like to express my deepest gratitude to the Hood Research Department, whose work inspired this project. Their guidance taught me to question foundational knowledge and to strive for a comprehensive understanding of complex processes. I dedicate this research on XAI and blockchain to them. The outcomes and discoveries presented herein will be implemented on the xaiQo platform, making them accessible to others and contributing to the ongoing advancement of the field.
-
+## About Us
+We specialize in pushing the boundaries of artificial intelligence efficiency and autonomous decision-making. Our research and development focus on:
+* **Inference Optimization:** Streamlining AI models for maximal computational efficiency.
+* **RL & MARL:** Building custom environments and advancing Multi-Agent Reinforcement Learning.
+* **Neural Approximation:** Replacing or approximating complex, classical mathematical algorithms with highly efficient neural network architectures.
