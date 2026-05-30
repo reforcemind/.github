@@ -1,7 +1,6 @@
-Inference Optimization • Reinforcement Learning (RL) • Multi-Agent Systems (MARL) • Neural Approximation • Algorithmic Substitution • Custom RL Environments • Autonomous Compute • High-Performance AI
+**systems and reinforcement**
 
 ## About Us
-We specialize in pushing the boundaries of artificial intelligence efficiency and autonomous decision-making. Our research and development focus on:
-* **Inference Optimization:** Streamlining AI models for maximal computational efficiency.
-* **RL & MARL:** Building custom environments and advancing Multi-Agent Reinforcement Learning.
-* **Neural Approximation:** Replacing or approximating complex, classical mathematical algorithms with highly efficient neural network architectures.
+Reforcemind explores the fundamental post-training bottlenecks of Vision-Language-Action models.
+
+We look for people who reason from first principles and operate with high agency. If you care deeply about the systems you build and the way you build them, we would love to hear from you.
